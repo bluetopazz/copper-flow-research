@@ -7,7 +7,6 @@ census,U.S. Census international trade API,Public domain,yes,https://api.census.
 comext,Eurostat Comext,Eurostat reuse policy (credit Eurostat),yes,https://ec.europa.eu/eurostat/web/international-trade-in-goods/database
 usgs,USGS Mineral Commodity Summaries / Minerals Yearbook,Public domain,yes,https://www.usgs.gov/centers/national-minerals-information-center/copper-statistics-and-information
 pinksheet,World Bank Commodity Price Data (Pink Sheet),CC BY 4.0,yes,https://www.worldbank.org/en/research/commodity-markets
-comex,CME COMEX copper warehouse stocks,CME terms,no (full pipeline only),https://www.cmegroup.com/delivery_reports/Copper_Stocks.xls
 mines_db,"Open database on global coal and metal mine production (Jasansky et al. 2023, data to ~2021)",CC BY 4.0,yes,https://doi.org/10.5281/zenodo.7369478
 curated,"Hand-curated facilities, owners, ports, corridors and press prices",Own work; each row cites its source,yes,curated/
 aduana_cl,"Chile Servicio Nacional de Aduanas, export declarations (DUS), via datos.gob.cl",Open Data Commons Attribution (ODC-BY),yes,https://datos.gob.cl/dataset/registro-de-exportaciones-2025

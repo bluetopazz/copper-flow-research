@@ -59,7 +59,7 @@ Each exporter–importer–product pair starts from its 2024 BACI level. That le
 
 | Check | Atlas | Reference |
 |---|---:|---:|
-| China concentrate imports 2023, Mt gross | 27.8 | about 27.5 (China customs) |
+| China concentrate imports 2023, Mt gross | 27.8 | 27.54 (China customs) |
 | China concentrate imports 2025, Mt gross (full pipeline) | 30.6 | 30.4 (China's annual report) |
 | Chile concentrate grade 2024, copper share of wet weight | 25.7% value-based | 23.2% declared |
 | China concentrate imports, Jan–Sep 2026 vs 2025 | calibrated | −2.9% by weight (GACC) |
@@ -103,7 +103,7 @@ The public atlas uses only redistributable sources: BACI, Eurostat, U.S. Census,
 
 Some estimates depend on UN Comtrade or SUNAT, whose terms do not clearly allow republication. In the public atlas they fall back to the 2024 level, scaled by the exporter's USGS production change, and none of those sources' figures appear. Its 2025–26 lanes are therefore simpler than the full pipeline's. For example, the public atlas shows world concentrate trade of 10.9 Mt of copper in 2025, against 11.4 Mt in the full pipeline.
 
-Research only, not financial advice.
+Research only, not financial advice. This note, its tables and figures are licensed CC BY 4.0; the source data keep their own licences.
 
 ## Sources
 

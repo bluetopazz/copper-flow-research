@@ -9,7 +9,7 @@ The public research archive for the **Copper Flow Atlas**, a Ronnie's Lab instru
 |---|---|
 | **Question** | Where does the world's copper physically go between mine and wire, and what changed in 2025–26? |
 | **Claim** | Reconciled and official customs data can map cross-border copper by stage, 2015 to the latest month, with every number traceable to its source, method and corrections. |
-| **Evidence** | China's 2023 concentrate imports come out at 27.8 Mt gross, against about 27.5 Mt in China's customs total. Chile's declared shipment grades showed the value-based method overstated Chilean concentrate copper by about 10%, and the method was corrected. |
+| **Evidence** | China's 2023 concentrate imports come out at 27.8 Mt gross, within 1% of China's customs total of 27.54 Mt. Chile's declared shipment grades showed the value-based method overstated Chilean concentrate copper by about 10%, and the method was corrected. |
 | **Limitation** | Concentrate and scrap copper content are estimated. 2025–26 figures rest on partial reporting. Routes are simulated. |
 
 ## Contents
@@ -32,5 +32,9 @@ This is a code-free archive. The pipeline and the app are a private workbench (`
 Ronnie's Lab (2026). *Copper Flow Atlas: measuring where the world's copper goes.* Methods note. https://github.com/bluetopazz/copper-flow-research
 
 Please credit the underlying sources as listed in `evidence/sources.csv`, in particular CEPII BACI, Eurostat, the U.S. Census Bureau, USGS, the World Bank, Chile's Servicio Nacional de Aduanas (ODC-BY), and Jasansky et al. (2023).
+
+## Licence
+
+The methods note, tables and figures in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See `LICENSE`. The underlying source data keep their own licences, listed in `evidence/sources.csv`, and should be credited when reused.
 
 Research only, not financial advice.

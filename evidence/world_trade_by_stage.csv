@@ -1,0 +1,133 @@
+year,form,copper_kt,value_usd_million,basis
+2015,Refined cathode,10935.7,62165.8,CEPII BACI
+2016,Refined cathode,11088.2,54434.2,CEPII BACI
+2017,Refined cathode,10718.3,66602.8,CEPII BACI
+2018,Refined cathode,10740.9,73104.7,CEPII BACI
+2019,Refined cathode,10820.0,65990.6,CEPII BACI
+2020,Refined cathode,11146.1,69378.1,CEPII BACI
+2021,Refined cathode,10348.9,95211.6,CEPII BACI
+2022,Refined cathode,10570.9,93678.5,CEPII BACI
+2023,Refined cathode,10543.3,89919.7,CEPII BACI
+2024,Refined cathode,10012.3,92207.4,CEPII BACI
+2025,Refined cathode,10452.6,104589.5,estimate (public build)
+2026,Refined cathode,10318.8,138938.4,estimate (public build)
+2015,Matte,127.8,512.3,CEPII BACI
+2016,Matte,158.4,550.6,CEPII BACI
+2017,Matte,242.0,825.2,CEPII BACI
+2018,Matte,322.5,1251.5,CEPII BACI
+2019,Matte,231.9,1086.1,CEPII BACI
+2020,Matte,238.2,1196.8,CEPII BACI
+2021,Matte,179.1,1596.7,CEPII BACI
+2022,Matte,151.5,1650.6,CEPII BACI
+2023,Matte,143.2,1365.3,CEPII BACI
+2024,Matte,154.3,1043.4,CEPII BACI
+2025,Matte,148.8,1090.3,estimate (public build)
+2026,Matte,146.4,1435.1,estimate (public build)
+2015,Alloy ingot,247.5,1866.8,CEPII BACI
+2016,Alloy ingot,232.2,1573.7,CEPII BACI
+2017,Alloy ingot,366.4,2099.0,CEPII BACI
+2018,Alloy ingot,328.4,2508.9,CEPII BACI
+2019,Alloy ingot,292.8,2210.2,CEPII BACI
+2020,Alloy ingot,385.6,2688.4,CEPII BACI
+2021,Alloy ingot,447.6,4049.8,CEPII BACI
+2022,Alloy ingot,406.5,3981.5,CEPII BACI
+2023,Alloy ingot,391.3,3340.1,CEPII BACI
+2024,Alloy ingot,319.2,3363.9,CEPII BACI
+2025,Alloy ingot,322.6,3701.9,estimate (public build)
+2026,Alloy ingot,325.9,4953.9,estimate (public build)
+2015,Residues,86.7,578.5,CEPII BACI
+2016,Residues,99.3,604.5,CEPII BACI
+2017,Residues,101.2,718.1,CEPII BACI
+2018,Residues,93.7,737.6,CEPII BACI
+2019,Residues,112.2,764.5,CEPII BACI
+2020,Residues,116.5,900.9,CEPII BACI
+2021,Residues,89.0,904.5,CEPII BACI
+2022,Residues,89.3,1010.5,CEPII BACI
+2023,Residues,86.5,859.9,CEPII BACI
+2024,Residues,83.5,1204.8,CEPII BACI
+2025,Residues,83.1,1321.6,estimate (public build)
+2026,Residues,78.5,1752.6,estimate (public build)
+2015,Winding wire,546.2,4639.3,CEPII BACI
+2016,Winding wire,558.8,4220.3,CEPII BACI
+2017,Winding wire,569.7,4945.7,CEPII BACI
+2018,Winding wire,566.8,5254.8,CEPII BACI
+2019,Winding wire,542.0,4775.1,CEPII BACI
+2020,Winding wire,501.7,4516.0,CEPII BACI
+2021,Winding wire,574.4,6523.9,CEPII BACI
+2022,Winding wire,564.6,6551.3,CEPII BACI
+2023,Winding wire,544.0,6245.2,CEPII BACI
+2024,Winding wire,551.0,6561.7,CEPII BACI
+2025,Winding wire,557.9,7223.5,estimate (public build)
+2026,Winding wire,552.3,9277.7,estimate (public build)
+2015,Concentrate,8111.9,46606.8,CEPII BACI
+2016,Concentrate,8609.0,46860.4,CEPII BACI
+2017,Concentrate,9367.7,58419.5,CEPII BACI
+2018,Concentrate,9591.3,63078.4,CEPII BACI
+2019,Concentrate,9778.3,58741.4,CEPII BACI
+2020,Concentrate,9810.5,63123.6,CEPII BACI
+2021,Concentrate,9739.4,92659.9,CEPII BACI
+2022,Concentrate,10390.1,92612.1,CEPII BACI
+2023,Concentrate,11257.6,98532.5,CEPII BACI
+2024,Concentrate,11072.8,104484.4,CEPII BACI
+2025,Concentrate,10905.5,113290.8,estimate (public build)
+2026,Concentrate,10605.6,150504.9,estimate (public build)
+2015,Alloy semis,1171.2,13968.8,CEPII BACI
+2016,Alloy semis,1141.2,12847.3,CEPII BACI
+2017,Alloy semis,1219.2,15246.6,CEPII BACI
+2018,Alloy semis,1217.6,16776.9,CEPII BACI
+2019,Alloy semis,1135.2,15063.1,CEPII BACI
+2020,Alloy semis,1073.1,13920.1,CEPII BACI
+2021,Alloy semis,1260.7,20237.9,CEPII BACI
+2022,Alloy semis,1183.8,20247.7,CEPII BACI
+2023,Alloy semis,1045.3,17508.0,CEPII BACI
+2024,Alloy semis,1080.6,18012.1,CEPII BACI
+2025,Alloy semis,1096.6,19456.7,estimate (public build)
+2026,Alloy semis,1084.9,24058.5,estimate (public build)
+2015,Blister / anode,1217.3,7290.6,CEPII BACI
+2016,Blister / anode,1610.2,8291.7,CEPII BACI
+2017,Blister / anode,1741.2,11216.3,CEPII BACI
+2018,Blister / anode,1985.3,13296.0,CEPII BACI
+2019,Blister / anode,1592.4,10393.2,CEPII BACI
+2020,Blister / anode,1910.5,12716.2,CEPII BACI
+2021,Blister / anode,1771.8,17024.6,CEPII BACI
+2022,Blister / anode,1950.6,17997.7,CEPII BACI
+2023,Blister / anode,1818.8,16455.3,CEPII BACI
+2024,Blister / anode,1965.4,19262.5,CEPII BACI
+2025,Blister / anode,2078.1,22276.7,estimate (public build)
+2026,Blister / anode,2082.4,31349.9,estimate (public build)
+2015,"Sheet, tube, foil",1517.9,13707.5,CEPII BACI
+2016,"Sheet, tube, foil",1546.0,12995.3,CEPII BACI
+2017,"Sheet, tube, foil",1650.9,15706.1,CEPII BACI
+2018,"Sheet, tube, foil",1769.2,17743.8,CEPII BACI
+2019,"Sheet, tube, foil",1812.2,17207.6,CEPII BACI
+2020,"Sheet, tube, foil",1698.0,16503.9,CEPII BACI
+2021,"Sheet, tube, foil",1899.4,24298.2,CEPII BACI
+2022,"Sheet, tube, foil",1952.9,24477.8,CEPII BACI
+2023,"Sheet, tube, foil",1806.1,21700.3,CEPII BACI
+2024,"Sheet, tube, foil",1819.8,22753.1,CEPII BACI
+2025,"Sheet, tube, foil",1864.6,24782.9,estimate (public build)
+2026,"Sheet, tube, foil",1798.5,31261.7,estimate (public build)
+2015,Scrap,4962.0,20746.7,CEPII BACI
+2016,Scrap,3577.8,18153.7,CEPII BACI
+2017,Scrap,5104.2,23540.6,CEPII BACI
+2018,Scrap,4504.5,25556.0,CEPII BACI
+2019,Scrap,4265.1,23756.8,CEPII BACI
+2020,Scrap,3683.2,20886.6,CEPII BACI
+2021,Scrap,4471.0,36429.4,CEPII BACI
+2022,Scrap,4183.5,35784.2,CEPII BACI
+2023,Scrap,4085.9,33954.7,CEPII BACI
+2024,Scrap,4295.3,38134.6,CEPII BACI
+2025,Scrap,4191.3,40291.0,estimate (public build)
+2026,Scrap,4339.1,55746.5,estimate (public build)
+2015,Rod & wire,3349.4,21652.1,CEPII BACI
+2016,Rod & wire,3332.8,18581.7,CEPII BACI
+2017,Rod & wire,3235.0,21968.0,CEPII BACI
+2018,Rod & wire,3382.1,24875.3,CEPII BACI
+2019,Rod & wire,3222.6,21653.4,CEPII BACI
+2020,Rod & wire,2882.3,19641.8,CEPII BACI
+2021,Rod & wire,3246.6,31087.0,CEPII BACI
+2022,Rod & wire,3215.6,30475.3,CEPII BACI
+2023,Rod & wire,3273.0,30560.9,CEPII BACI
+2024,Rod & wire,3582.3,34440.7,CEPII BACI
+2025,Rod & wire,3586.3,37262.5,estimate (public build)
+2026,Rod & wire,3401.0,46777.0,estimate (public build)

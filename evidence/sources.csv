@@ -1,0 +1,16 @@
+id,name,licence,in_public_atlas,url
+baci,"CEPII BACI (HS2012, V202601)",Etalab Open Licence 2.0 (credit CEPII),yes,https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS12_V202601.zip
+natural_earth,Natural Earth 1:50m admin-0 countries,Public domain,yes,https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson
+searoute,searoute (Eurostat marnet network),Apache-2.0,yes,https://pypi.org/project/searoute/
+comtrade,"UN Comtrade API v1 (monthly, and annual reports by partner)",UN Comtrade terms; redistribution needs UN permission,no (full pipeline only),https://comtradeapi.un.org/
+census,U.S. Census international trade API,Public domain,yes,https://api.census.gov/data/timeseries/intltrade/
+comext,Eurostat Comext,Eurostat reuse policy (credit Eurostat),yes,https://ec.europa.eu/eurostat/web/international-trade-in-goods/database
+usgs,USGS Mineral Commodity Summaries / Minerals Yearbook,Public domain,yes,https://www.usgs.gov/centers/national-minerals-information-center/copper-statistics-and-information
+pinksheet,World Bank Commodity Price Data (Pink Sheet),CC BY 4.0,yes,https://www.worldbank.org/en/research/commodity-markets
+comex,CME COMEX copper warehouse stocks,CME terms,no (full pipeline only),https://www.cmegroup.com/delivery_reports/Copper_Stocks.xls
+mines_db,"Open database on global coal and metal mine production (Jasansky et al. 2023, data to ~2021)",CC BY 4.0,yes,https://doi.org/10.5281/zenodo.7369478
+curated,"Hand-curated facilities, owners, ports, corridors and press prices",Own work; each row cites its source,yes,curated/
+aduana_cl,"Chile Servicio Nacional de Aduanas, export declarations (DUS), via datos.gob.cl",Open Data Commons Attribution (ODC-BY),yes,https://datos.gob.cl/dataset/registro-de-exportaciones-2025
+sunat,"Peru SUNAT table G8, exports by destination and tariff code",Not stated (public statistics); check before publishing,no (full pipeline only),https://www.sunat.gob.pe/estadisticasestudios/nota_tributaria/cdro_G8.xlsx
+bcrp,Banco Central de Reserva del Peru statistics API (copper export totals; used to check SUNAT months),Reproduction allowed with citation,yes,https://estadisticas.bcrp.gob.pe/estadisticas/series/
+gacc,"China General Administration of Customs, preliminary release table 6 (copper import totals; calibrates China's current-year estimate)",Not stated (public statistics),yes,http://english.customs.gov.cn/statics/report/preliminary.html

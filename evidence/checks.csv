@@ -1,0 +1,7 @@
+check,atlas,reference,reference_source,note
+"China copper concentrate imports 2023, Mt gross",27.79,about 27.5,China customs headline (press),CEPII BACI basis; public build
+"China copper concentrate imports 2025, Mt gross",30.63,30.37,China's annual report to UN Comtrade (aggregate),full pipeline; the public build carries 2024 levels for these lanes
+"Chile concentrate grade 2024, copper share of wet weight",0.257 (value-based),0.232,"Chile customs export declarations (Aduanas), shipment-weighted",declared grade now used; ~10% lower
+"China concentrate imports Jan–Sep 2026 vs same months 2025, by weight",x1.015 calibration,-2.9% (value +31.2%),"GACC preliminary release, table 6",current-year estimate scaled to match
+"China unwrought imports Jan–Sep 2026 vs same months 2025, by weight",x0.974 calibration,-6.5% (value +29.6%),"GACC preliminary release, table 6",current-year estimate scaled to match
+BACI rows with re-derived tonnage (2015-2024),"27,494",$16.6bn of trade,"unit value < 1/10 of median, or near-pure copper < 60% of LME",tagged derived

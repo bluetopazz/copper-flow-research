@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="11">
+<rect width="760" height="380" fill="#f8f3e7"/>
+<text x="56" y="18" font-size="12" fill="#1e1e1c" font-weight="700">World cross-border copper trade by stage, kt Cu contained</text>
+<line x1="56" x2="610" y1="340.0" y2="340.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="344.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">0</text>
+<line x1="56" x2="610" y1="278.0" y2="278.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="282.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">2,500</text>
+<line x1="56" x2="610" y1="216.0" y2="216.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="220.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">5,000</text>
+<line x1="56" x2="610" y1="154.0" y2="154.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="158.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">7,500</text>
+<line x1="56" x2="610" y1="92.0" y2="92.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="96.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">10,000</text>
+<line x1="56" x2="610" y1="30.0" y2="30.0" stroke="#1e1e1c" stroke-opacity="0.1"/>
+<text x="48" y="34.0" text-anchor="end" fill="#1e1e1c" fill-opacity="0.6">12,500</text>
+<text x="56.0" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2015</text>
+<text x="106.4" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2016</text>
+<text x="156.7" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2017</text>
+<text x="207.1" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2018</text>
+<text x="257.5" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2019</text>
+<text x="307.8" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2020</text>
+<text x="358.2" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2021</text>
+<text x="408.5" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2022</text>
+<text x="458.9" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2023</text>
+<text x="509.3" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2024</text>
+<text x="559.6" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2025</text>
+<text x="610.0" y="356" text-anchor="middle" fill="#1e1e1c" fill-opacity="0.6">2026</text>
+<rect x="534.5" y="30" width="75.5" height="310" fill="#ff5a1f" fill-opacity="0.06"/>
+<text x="606" y="42" text-anchor="end" fill="#ff5a1f" font-size="10">estimates</text>
+<polyline points="56.0,138.8 106.4,126.5 156.7,107.7 207.1,102.1 257.5,97.5 307.8,96.7 358.2,98.5 408.5,82.3 458.9,60.8 509.3,65.4 559.6,69.5 610.0,77.0" fill="none" stroke="#be581e" stroke-width="2"/>
+<text x="618" y="77.5" fill="#be581e">Concentrate</text>
+<polyline points="56.0,68.8 106.4,65.0 156.7,74.2 207.1,73.6 257.5,71.7 307.8,63.6 358.2,83.3 408.5,77.8 458.9,78.5 509.3,91.7 559.6,80.8 610.0,84.1" fill="none" stroke="#a88000" stroke-width="2"/>
+<text x="618" y="91.5" fill="#a88000">Refined cathode</text>
+<polyline points="56.0,216.9 106.4,251.3 156.7,213.4 207.1,228.3 257.5,234.2 307.8,248.7 358.2,229.1 408.5,236.2 458.9,238.7 509.3,233.5 559.6,236.1 610.0,232.4" fill="none" stroke="#128476" stroke-width="2"/>
+<text x="618" y="236.4" fill="#128476">Scrap</text>
+<polyline points="56.0,309.8 106.4,300.1 156.7,296.8 207.1,290.8 257.5,300.5 307.8,292.6 358.2,296.1 408.5,291.6 458.9,294.9 509.3,291.3 559.6,288.5 610.0,288.4" fill="none" stroke="#cd8214" stroke-width="2"/>
+<text x="618" y="292.4" fill="#cd8214">Blister / anode</text>
+<polyline points="56.0,256.9 106.4,257.3 156.7,259.8 207.1,256.1 257.5,260.1 307.8,268.5 358.2,259.5 408.5,260.3 458.9,258.8 509.3,251.2 559.6,251.1 610.0,255.7" fill="none" stroke="#2460cd" stroke-width="2"/>
+<text x="618" y="259.7" fill="#2460cd">Rod &amp; wire</text>
+<text x="56" y="374" fill="#1e1e1c" fill-opacity="0.55" font-size="9.5">Source: Copper Flow Atlas (public build): CEPII BACI 2015-2024; 2025-26 estimated from official customs data. Never add stages together.</text>
+</svg>
